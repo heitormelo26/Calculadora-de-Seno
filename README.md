@@ -5,6 +5,6 @@ A calculadora recebe como entrada o valor em <b>radiano</b>.
 <br/>
 <h1> Exemplo de execução de código </h1>
 
-Digite o numero para calcular seu seno: 3.14<br/>
+Digite o numero para calcular seu seno: 3.14 <br/>
 
-O seno de 3.140000 e: 0.001150<br/>
+O seno de 3.14 é: 0.00 <br/>
